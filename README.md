@@ -1,5 +1,4 @@
 # Earthquake-Intensity-and-Impact-Prediction
-Earthquake Intensity and Impact Prediction
 
 ## **Introduction**
 This project aims to develop an AI-driven system for predicting earthquake intensity and impact. The objective is to contribute to early warning capabilities for earthquake mitigation.
