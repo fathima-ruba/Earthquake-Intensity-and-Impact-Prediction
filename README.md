@@ -35,7 +35,7 @@ For MMI prediction, Random Forest had the lowest MSE of 0.83.
 ## **Feature Importance Analysis**
 Feature importance was analyzed for the best-performing model (Random Forest). The most influential features for predicting both CDI and MMI were Depth and Significance (Sig).
 
-![Graph: Feature Importances for Predicting CDI and MMI](Graph 2.png)
+![Graph: Feature Importances for Predicting CDI and MMI](https://github.com/fathima-ruba/Earthquake-Intensity-and-Impact-Prediction/blob/main/Graph%202.png)
 
 ## **Conclusion**
 The Random Forest model showed the best performance for predicting both CDI and MMI. Feature importance analysis revealed 'Depth' and 'Significance' as the most influential variables. The model serves as a step towards developing an early warning system for earthquakes.
