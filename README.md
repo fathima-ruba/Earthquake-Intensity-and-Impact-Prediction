@@ -6,7 +6,7 @@ This project aims to develop an AI-driven system for predicting earthquake inten
 ## **Data Exploration**
 The dataset contains various features like magnitude, latitude, longitude, depth, and other seismic activity measures. The distribution of earthquake magnitudes shows that most earthquakes are in the range of 6.5 to 7.5, which is considered strong but not extremely catastrophic.
 
-![Graph: Distribution of Earthquake Magnitude](Graph 1.png)
+![Graph: Distribution of Earthquake Magnitude](https://github.com/fathima-ruba/Earthquake-Intensity-and-Impact-Prediction/blob/main/Graph%201.png)
 
 ## **Data Preprocessing**
 Missing values were handled based on the data type.
